@@ -1,0 +1,4 @@
+    This program is designed to graph function. Calculates the limit,
+derivatives of the first and second order functions.
+    To use the program, install all the libraries from the file requirements.txt
+and enjoy the construction of graphs.
